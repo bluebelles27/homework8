@@ -1,0 +1,13 @@
+.grayscale {
+    -webkit-filter: grayscale(100%);
+            filter: grayscale(100%);
+}
+
+.myNostalgia{
+    filter: saturate(40%) grayscale(100%) contrast(45%) sepia(100%);
+    -webkit-filter: saturate(40%) grayscale(100%) contrast(45%) sepia(100%);
+}
+
+.lomo{
+    filter: none;
+}
